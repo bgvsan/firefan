@@ -1,3 +1,11 @@
-_main: CODE, 2045 0 1
+_init: CODE, 1255 0 9
+___ftpack: CODE, 1555 0 104
+_main: CODE, 1264 0 11
 __initialization: CODE, 2046 0 0
-Total: 1
+_switchOn: CODE, 1306 0 60
+_getTemperature: CODE, 1459 0 96
+___ftmul: CODE, 1839 0 207
+___awtoft: CODE, 1275 0 31
+___ftge: CODE, 1366 0 93
+___ftdiv: CODE, 1659 0 180
+Total: 791
